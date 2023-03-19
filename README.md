@@ -1,3 +1,8 @@
+<div>
+  <img src="https://res.cloudinary.com/dauxpbph9/image/upload/v1679190258/git_header_dw8goa.png"/>
+</div>
+
+
 ## My skills
 ### Languages
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
