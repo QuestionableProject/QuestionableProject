@@ -25,6 +25,7 @@
 ![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![bcrypt](https://img.shields.io/badge/bcrypt-black?style=for-the-badge)
+![Actix](https://img.shields.io/badge/Actix-0a141c?style=for-the-badge)
 
 ### Database
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
